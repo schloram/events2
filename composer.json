@@ -19,7 +19,7 @@
       "source": "https://github.com/jweiland-net/events2"
     },
     "require": {
-      "php": ">=5.3.7 <6.0",
+      "php": ">=5.3.7",
       "typo3/cms-core": ">=6.2.14,<8.0"
     },
     "require-dev": {
